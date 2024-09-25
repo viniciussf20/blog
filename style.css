@@ -1,0 +1,161 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eaeaea;
+    margin: 0;
+    padding: 0;
+}
+
+#principal {
+    background-color: #ffcc00;
+    height: 60px;
+    width: 100%;
+}
+
+.logo {
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+    font-size: 36px;
+    background-color: #ffcc00;
+}
+
+.tec {
+    color: black;
+    font-weight: bold;
+}
+
+.blog {
+    color: white;
+}
+
+#nav {
+    text-align: center;
+    background-color: #ffcc00;
+    padding: 10px;
+}
+
+#nav a {
+    text-decoration: none;
+    color: white;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+#nav a:hover {
+    color: black;
+}
+
+.main-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    width: 90%;
+}
+
+.content {
+    width: 65%;
+    margin-right: 2%;
+}
+
+.sidebar {
+    width: 25%;
+}
+
+#tituloeimagem, #tituloeimagem2 {
+    background-color: white;
+    padding: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+#titulosamarelos {
+    color: #ffcc00;
+    font-size: 24px;
+    text-align: left;
+}
+
+.subtitulo {
+    color: gray;
+    text-align: left;
+}
+
+p {
+    font-size: 16px;
+    color: #333;
+    line-height: 1.5;
+    text-align: left;
+}
+
+img, #img2 {
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.leia-mais {
+    text-decoration: none;
+    color: #ffcc00;
+    font-weight: bold;
+    display: block;
+    margin-top: 10px;
+    text-align: left;
+}
+
+.leia-mais:hover {
+    color: #333;
+}
+
+#direita {
+    background-color: white;
+    padding: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+#categorias {
+    color: #ffcc00;
+    font-size: 18px;
+}
+
+#resumos {
+    color: #333;
+    font-size: 14px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+#lista {
+    text-decoration: none;
+    color: #ffcc00;
+    font-size: 16px;
+}
+
+#lista:hover {
+    color: #333;
+}
+
+#direitosreservados {
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    width: 100%;
+}
+#leia{
+    text-decoration: none;
+    color: #ffcc00;
+    font-weight: bold;
+    display: block;
+    margin-top: 10px;
+    text-align: left;
+}
